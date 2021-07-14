@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(32, 165, 32);
+}
+
+.loginbox{
+
+    background: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 400px;
+    padding: 40px;
+    margin: auto;
+    margin-top: 200px;
+    box-shadow: 5px 5px 15px 3px rgb(0, 0, 0);
+
+}
+
+.loginbox input{
+    background:rgb(231, 229, 229);
+    margin-bottom: 20px;
+    width: 80%;
+    padding: 20px;
+    border:none;
+    font-size: 20px;
+    outline: none;
+}
+
+
+.loginbutton{
+    background: rgb(32, 165, 32) !important;
+    color: white;
+    width: 90% !important;
+    border:none;
+}
+
+.registerlink{
+    text-align: center;
+}
+
+.registerlink span{
+    color:rgb(151, 150, 150);
+}
+
+.registerlink a{
+    color:rgb(18, 173, 18);
+}
